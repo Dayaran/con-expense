@@ -1,14 +1,14 @@
 {
-  "main.css": "/con-expense/static/css/main.9121365b.chunk.css",
-  "main.js": "/con-expense/static/js/main.7858eef2.chunk.js",
-  "main.js.map": "/con-expense/static/js/main.7858eef2.chunk.js.map",
-  "static/js/1.8386807e.chunk.js": "/con-expense/static/js/1.8386807e.chunk.js",
-  "static/js/1.8386807e.chunk.js.map": "/con-expense/static/js/1.8386807e.chunk.js.map",
-  "runtime~main.js": "/con-expense/static/js/runtime~main.c2eb5dea.js",
-  "runtime~main.js.map": "/con-expense/static/js/runtime~main.c2eb5dea.js.map",
-  "static/media/loader.gif": "/con-expense/static/media/loader.34cf5337.gif",
-  "static/css/main.9121365b.chunk.css.map": "/con-expense/static/css/main.9121365b.chunk.css.map",
-  "index.html": "/con-expense/index.html",
-  "precache-manifest.452537a42dd1f85ed7c7f82c5634165f.js": "/con-expense/precache-manifest.452537a42dd1f85ed7c7f82c5634165f.js",
-  "service-worker.js": "/con-expense/service-worker.js"
+  "files": {
+    "main.css": "/con-expense/static/css/main.14700721.css",
+    "main.js": "/con-expense/static/js/main.c67b6765.js",
+    "static/media/loader.gif": "/con-expense/static/media/loader.1bcd0c30e2c0c73f7db9.gif",
+    "index.html": "/con-expense/index.html",
+    "main.14700721.css.map": "/con-expense/static/css/main.14700721.css.map",
+    "main.c67b6765.js.map": "/con-expense/static/js/main.c67b6765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14700721.css",
+    "static/js/main.c67b6765.js"
+  ]
 }
