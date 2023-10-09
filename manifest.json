@@ -1,6 +1,6 @@
 {
-  "short_name": "Hedge Fund Constructions",
-  "name": "Buildings Apps for Construction Purpose",
+  "short_name": "Constructions",
+  "name": "Bamne Construction",
   "icons": [
     {
       "src": "favicon.ico",
@@ -13,9 +13,9 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo511.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "624x304"
     }
   ],
   "start_url": ".",
